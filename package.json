@@ -1,0 +1,15 @@
+{
+  "name": "nft-marketplace-contract",
+  "version": "1.0.0",
+  "description": "This is contracts of nft marketplace MVP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davoud A.Khameneh",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
